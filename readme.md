@@ -40,7 +40,7 @@
 ### My Github Stats
 
 <img align="left" alt="Ansh Modi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshmodi27&show_icons=true&theme=dark">
-<img align="right" alt="Ansh Modi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmodi27&langs_count=8">
+<img align="right" alt="Ansh Modi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmodi27&langs_count=8&theme=dark">
 
 
 [twitter]:https://www.twitter.com/ansh3027
