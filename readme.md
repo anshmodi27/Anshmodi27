@@ -17,7 +17,7 @@
 [<img align="left" alt="ansh3027" src="linkden.png" width="35px">][linkedin]
 [<img align="left" alt="ansh3027" src="email.png" width="35px">][email]
 
-
+<br />
 
 ### Language & Tools
 <img align="left" alt="ansh3027" src="python.png" width="28px">
@@ -34,7 +34,7 @@
 <img align="left" alt="ansh3027" src="postman.png" width="28px">
 <img align="left" alt="ansh3027" src="rest.png" width="28px">
 
-
+---
 ### My Github Stats
 
 <img align="left" alt="Ansh Modi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshmodi27&show_icons=true&theme=dark">
