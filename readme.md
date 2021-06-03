@@ -17,7 +17,7 @@
 [<img align="left" alt="ansh3027" src="linkden.png" width="35px">][linkedin]
 [<img align="left" alt="ansh3027" src="email.png" width="35px">][email]
 
-<br />
+
 
 ### Language & Tools
 <img align="left" alt="ansh3027" src="python.png" width="28px">
@@ -33,8 +33,6 @@
 <img align="left" alt="ansh3027" src="pycharm.png" width="28px">
 <img align="left" alt="ansh3027" src="postman.png" width="28px">
 <img align="left" alt="ansh3027" src="rest.png" width="28px">
-
-<br />
 
 
 ### My Github Stats
