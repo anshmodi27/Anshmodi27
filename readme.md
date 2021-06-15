@@ -21,18 +21,18 @@
 
 ### Language & Tools
 <img align="left" alt="ansh3027" src="python.png" width="28px">
+<img align="left" alt="ansh3027" src="flask.png" width="28px">
+<img align="left" alt="ansh3027" src="rest.png" width="28px">
 <img align="left" alt="ansh3027" src="html.png" width="28px">
 <img align="left" alt="ansh3027" src="css.png" width="28px">
 <img align="left" alt="ansh3027" src="js.png" width="28px">
-<img align="left" alt="ansh3027" src="angular.png" width="28px">
-<img align="left" alt="ansh3027" src="react.png" width="28px">
 <img align="left" alt="ansh3027" src="sql.png" width="28px">
-<img align="left" alt="ansh3027" src="ios.png" width="28px">
-<img align="left" alt="ansh3027" src="android.png" width="28px">
+<!-- <img align="left" alt="ansh3027" src="react.png" width="28px"> -->
+<!-- <img align="left" alt="ansh3027" src="ios.png" width="28px"> -->
+<!-- <img align="left" alt="ansh3027" src="android.png" width="28px"> -->
 <img align="left" alt="ansh3027" src="vs.png" width="28px">
 <img align="left" alt="ansh3027" src="pycharm.png" width="28px">
 <img align="left" alt="ansh3027" src="postman.png" width="28px">
-<img align="left" alt="ansh3027" src="rest.png" width="28px">
 
 ---
 <br />
