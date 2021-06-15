@@ -1,6 +1,6 @@
 # Hi, This's  Ansh Modi 
 
-## I'm a Python Enthusiast, Developer, and a Student!!
+## I'm a Python Enthusiast, Developer, and Student!!
 
 ```bash
 🧠 I’m currently learning more about Python and Web Development.
@@ -21,7 +21,7 @@
 
 ### Language & Tools
 <img align="left" alt="ansh3027" src="python.png" width="28px">
-<img align="left" alt="ansh3027" src="flask.png" width="30px">
+<img align="left" alt="ansh3027" src="flask.png" width="34px">
 <img align="left" alt="ansh3027" src="rest.png" width="28px">
 <img align="left" alt="ansh3027" src="html.png" width="28px">
 <img align="left" alt="ansh3027" src="css.png" width="28px">
