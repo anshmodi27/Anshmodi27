@@ -21,7 +21,7 @@
 
 ### Language & Tools
 <img align="left" alt="ansh3027" src="python.png" width="28px">
-<img align="left" alt="ansh3027" src="flask.png" width="28px">
+<img align="left" alt="ansh3027" src="flask.png" width="30px">
 <img align="left" alt="ansh3027" src="rest.png" width="28px">
 <img align="left" alt="ansh3027" src="html.png" width="28px">
 <img align="left" alt="ansh3027" src="css.png" width="28px">
