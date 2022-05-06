@@ -7,7 +7,7 @@
 🎯 My Next landmark in Cyber security, iOS development, android development.
 🧑‍🤝‍🧑 Ready to collaborate with other for the projects.
 🥅 2022 Goals: Do More Internship Projects
-📖 I'm Studying in 3rd year Computer Engineering at LDRP-ITR.
+📖 I'm Studying in 4th year Computer Engineering at LDRP-ITR.
 💬 Ask me about Python and Web Development.
 📧 Reach me at anshmodi250@gmail.com
 ```
