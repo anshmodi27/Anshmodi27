@@ -2,9 +2,7 @@
 
 ## I'm a Web Developer, Mobile Developer!!
 
-```bash
 👨🏻‍💻 Hello! I'm a dedicated Frontend Developer with 18 months of professional expertise in crafting immersive digital experiences using Next.js, React.js, React Native, Flutter, and harnessing the power of Tailwind CSS for sleek designs. I'm passionate about continuous growth and am currently on a journey to master TypeScript and the MERN stack by mid-2024. I thrive on transforming ideas into engaging, user-centric solutions, and I'm excited about the endless possibilities that technology brings. Let's build something incredible together! 🚀✨
-```
 
 ## Connected with me
 [<img align="left" alt="ansh3027" src="twiit.png" width="35px">][twitter]
