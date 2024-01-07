@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<img align="right" height="120" width="100" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
+<img align="right" height="120" width="200" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 
 ###
 
