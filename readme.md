@@ -28,7 +28,6 @@
 
 <img align="left" alt="Ansh Modi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshmodi27&theme=radical&show_icons=true">
 <img align="right" alt="Ansh Modi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmodi27&langs_count=8&theme=radical">
-<img align="right" alt="Ansh Modi's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=anshmodi27&repo=new_portfolio&theme=radical">
 
 
 [twitter]:https://www.twitter.com/ansh3027
